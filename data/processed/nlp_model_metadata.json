@@ -1,0 +1,33 @@
+{
+  "model_type": "Logistic Regression",
+  "feature_extraction": "TF-IDF (unigrams + bigrams)",
+  "tfidf_max_features": 15000,
+  "ngram_range": [
+    1,
+    2
+  ],
+  "training_samples": 50099,
+  "test_samples": 12525,
+  "test_accuracy": 0.8003,
+  "test_f1_weighted": 0.8195,
+  "classes": [
+    "Negative",
+    "Neutral",
+    "Positive"
+  ],
+  "class_weight": "balanced",
+  "total_reviews_scored": 62624,
+  "total_apps_scored": 482,
+  "hidden_gems_found": 54,
+  "aspects_analysed": [
+    "ease_of_use",
+    "pricing",
+    "customer_support",
+    "performance",
+    "features"
+  ],
+  "output_files": [
+    "review_sentiments.csv",
+    "app_sentiment_scores.csv"
+  ]
+}

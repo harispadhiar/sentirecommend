@@ -1,0 +1,481 @@
+app_id,app_name,project_category,pricing_model,total_reviews,avg_rating,ease_of_use_score,ease_of_use_mentions,pricing_fairness_score,pricing_fairness_mentions,customer_support_score,customer_support_mentions,overall_sentiment,user_satisfaction_score,ease_of_use_score_100,pricing_fairness_score_100,customer_support_score_100,overall_sentiment_100,is_hidden_gem
+ai.chat.gpt.bot,ChatOn - AI Chat Bot Assistant,Generative Text / Chatbots,Freemium,111,4.5309143,0.0,68,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.scaleup.chatai,AI Chatbot - Nova,Generative Text / Chatbots,Freemium,113,3.8178427,0.0,89,,0,0.0,3,0.0,50.0,50.0,,50.0,50.0,False
+com.codespaceapps.aichat,Chatbot AI - Search Assistant,Generative Text / Chatbots,Freemium,112,4.386683,0.0,63,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.mlink.ai.chat.assistant.robot,AI Chat・Ask Chatbot Assistant,Generative Text / Chatbots,Freemium,108,4.4971375,0.0,60,,0,0.0,1,0.0012851851851851852,50.04,50.0,,50.0,50.06,False
+chatgpt.ai.chatbot.open.chat.gpt.bot.writer.assistant,ChatBox: AI Chat Bot Assistant,Generative Text / Chatbots,Freemium,113,4.4964285,0.0,69,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+ai.socialapps.speakmaster,PolyBuzz: Chat with AI Friends,Generative Text / Chatbots,Freemium,172,3.8008757,0.0,131,,0,0.0,2,0.0014534883720930232,50.04,50.0,,50.0,50.07,False
+ai.chat.app,Chatbot - AI Smart Assistant,Generative Text / Chatbots,Freemium,104,4.455918,0.0,70,0.0,2,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.codeway.chatapp,Ask AI - Chat with AI Chatbot,Generative Text / Chatbots,Freemium,120,4.443531,0.0,88,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.upriselabs.aiChatBot,AI ChatBot Assistant,Generative Text / Chatbots,Freemium,3,4.894737,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.connectinno.chataiultraapp,AI! Chatbot Agent－Ask & Chat,Generative Text / Chatbots,Freemium,65,4.4772725,0.0,26,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.weaver.app.prod,Talkie: Creative AI Community,Generative Text / Chatbots,Freemium,151,4.5620174,0.0,108,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+ai.chatbot.ask.chat.deep.seek.assistant.search.free,Deep Think - AI Seek Chatbot,Generative Text / Chatbots,Freemium,111,4.6883116,0.0,51,0.0,3,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.openai.chatgpt,ChatGPT,Generative Text / Chatbots,Freemium,113,4.8067937,0.0,91,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+ai.x.grok,Grok • Smartest AI Advisor,Generative Text / Chatbots,Freemium,116,4.7313943,0.0,85,0.0,2,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.smartwidgetlabs.chatgpt,Chat Smith: AI Chatbot & Agent,Generative Text / Chatbots,Freemium,97,4.1857443,0.0,62,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+ai.chat.gpt.app,AI Chat - AI Chatbot Assistant,Generative Text / Chatbots,Freemium,86,4.463054,0.0,45,,0,,0,0.002672093023255814,50.1,50.0,,,50.13,False
+com.ai.ask.chat.chatgpt.chatbot,Ask AI ChatBot: Assistant Chat,Generative Text / Chatbots,Freemium,70,4.41,0.0,20,,0,,0,0.0,50.0,50.0,,,50.0,False
+ai.sider.ChatGPT.android,Sider: AI GPT Deep Chat,Generative Text / Chatbots,Freemium,93,4.6237626,0.0,46,,0,0.0,1,0.002470967741935484,50.07,50.0,,50.0,50.12,False
+ai.character.app,"Character AI: Chat, Talk, Text",Generative Text / Chatbots,Freemium,167,3.3502872,0.0,130,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+newway.open.chatgpt.ai.chat.bot.free,Chatbot AI - Chat & Ask AI,Generative Text / Chatbots,Freemium,106,4.5080385,0.0,66,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.poe.android,Poe - Fast AI Chat,Generative Text / Chatbots,Freemium,115,4.5503044,0.0,70,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.aichatmaster.chat.gp,G.AI - AI Chat & AI Chatbot,Generative Text / Chatbots,Freemium,96,4.1868687,0.0,46,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.jetkite.gemmy,Gemmy AI: Chat & Assistant,Generative Text / Chatbots,Freemium,106,4.536193,0.0,48,0.0,2,,0,0.0,50.0,50.0,50.0,,50.0,False
+ai.chat.pro.plus.smart.chatbot.ai.writing.tool,AI Chat App - AI Chat bot,Generative Text / Chatbots,Freemium,84,4.08,0.0,43,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.google.android.apps.dynamite,Google Chat,Generative Text / Chatbots,Free,136,4.453238,0.0,92,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.foyer.merlin,Merlin AI: AI Chat Assistant,Generative Text / Chatbots,Freemium,122,4.21,0.0,72,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.gpt.chat.assistant,Omni AI: ChatGPT AI Assistant,Generative Text / Chatbots,Freemium,12,4.257143,0.0,5,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.grammarly.android.keyboard,Grammarly-AI Writing Assistant,Generative Text / Chatbots,Freemium,146,4.176621,0.0,117,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.qubitsolutionlab.aiwriter,AI Writer - Write Better,Generative Text / Chatbots,Freemium,110,4.5742574,0.0,62,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+io.zyur.textelevate,AI Writing Assistant,Generative Text / Chatbots,Freemium,2,4.357143,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.ai.chat.writer,AI Writer: Any Content Writing,Generative Text / Chatbots,Freemium,67,4.576923,0.0,29,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.writein.ai_writer,"AI Writer: Essay, Story, Email",Generative Text / Chatbots,Freemium,44,4.47,0.0,15,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.quillbot.mobile,QuillBot: AI Writing Assistant,Generative Text / Chatbots,Freemium,115,3.6534653,0.0,72,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.smartwriter.smart_writer,Smart Writer: AI Writer,Generative Text / Chatbots,Free,133,4.3,0.0,80,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.shapun.typi,Typi AI - Writing Assistant,Generative Text / Chatbots,Freemium,51,4.357143,0.0,24,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.eskritor.app,Eskritor: AI Writing Assistant,Generative Text / Chatbots,Freemium,63,4.277228,0.0,38,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.app.writecream,Writecream - AI Content Writer,Generative Text / Chatbots,Freemium,154,4.497436,0.0,111,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.xplore.iamwriter,IamWriter - AI Assistant,Generative Text / Chatbots,Freemium,53,4.712871,0.0,30,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.content.writing.assistant.ai,AI Writer: Chatbot Assistant,Generative Text / Chatbots,Freemium,110,4.504348,0.0,67,,0,,0,0.0,50.0,50.0,,,50.0,False
+subtext.it,Subtext: AI Writing Assistant,Generative Text / Chatbots,Freemium,13,4.4310346,0.0,7,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,True
+com.secondearth.bookai,AI Book Writer - Writing App,Generative Text / Chatbots,Freemium,104,4.178571,0.0,58,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.microsoft.copilot,​​Microsoft Copilot,Generative Text / Chatbots,Freemium,135,4.701297,0.0,100,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.humanplusplus.sudowrite,Sudowrite - AI Novel Writing,Generative Text / Chatbots,Freemium,30,3.8901098,0.0,18,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,True
+tech.butterfly.app,Manus AI,Generative Text / Chatbots,Freemium,123,4.612245,0.0,76,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.nexbot.app,NexBot AI: Writing Assistant,Generative Text / Chatbots,Freemium,89,4.2,0.0,42,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.matteo.bookwriterai,Book writer AI,Generative Text / Chatbots,Freemium,8,4.785714,0.0,4,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.app.academic.writer,AI Academic Writing & Research,Generative Text / Chatbots,Freemium,79,4.7,0.0,30,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.daily.aiwriter,"Daily AI Writer: Email, Letter",Generative Text / Chatbots,Freemium,6,4.5692306,0.0,4,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.bf.aistory,AI Story Generator Novel Maker,Generative Text / Chatbots,Freemium,111,4.389513,0.0,79,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.chatgpt.ai.bot.open.assistant.aiwriter,Chat AI Writer - Writing App,Generative Text / Chatbots,Freemium,72,4.31,0.0,30,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.rm.ai.academic.helper,AI Academic Writing Assistant,Generative Text / Chatbots,Freemium,3,5.0,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.graspery.www.text_analysis,AI Text Analyzer & Writer,Generative Text / Chatbots,Freemium,62,4.37,0.0,29,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.app.ai.msg.gen,AI Text Message Generator,Generative Text / Chatbots,Freemium,8,4.388235,0.0,3,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.editpad.aistorygenertor,AI Story Generator - Story AI,Generative Text / Chatbots,Freemium,106,4.28,0.0,62,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.facebook.videodownload.videodownloaderforfacebook,AI ChatBot GPTalk AI Generator,Generative Text / Chatbots,Freemium,114,4.506294,0.0,80,,0,,0,0.001955263157894737,50.07,50.0,,,50.1,False
+com.xp.fancy.text.generator,Fancy Text Generator,Generative Text / Chatbots,Free,57,3.8,0.0,19,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.ai.poem.generator.poem_generator,AI Poem Generator,Generative Text / Chatbots,Free,45,4.72,0.0,17,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.google.android.apps.bard,Google Gemini,Generative Text / Chatbots,Free,111,4.60723,0.0,91,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.openai.sora,Sora by OpenAI,Generative Text / Chatbots,Freemium,143,4.577369,0.0,99,,0,0.0,3,0.0,50.0,50.0,,50.0,50.0,False
+io.elevenlabs.coreapp,ElevenLabs: AI Voice Generator,Generative Text / Chatbots,Freemium,116,4.7040358,0.0,73,0.0,3,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.rosdawn.storynowai,Story Generator: StoryNow AI,Generative Text / Chatbots,Freemium,12,4.3965516,0.0,4,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.adobe.firefly,Adobe Firefly: AI Generator,Generative Text / Chatbots,Freemium,110,4.5641026,0.0,60,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.ai.polyverse.spell.pro,Spellai - AI Art Maker,Generative Text / Chatbots,Freemium,132,4.184874,0.0,77,0.0,2,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.writing.ai.email.assistant,Ai Email Writer & Generator,Generative Text / Chatbots,Freemium,26,4.366337,0.0,4,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.mainfunc.genspark,Genspark AI Workspace,Generative Text / Chatbots,Freemium,103,4.6349206,0.0,50,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.deepseek.chat,DeepSeek - AI Assistant,Generative Text / Chatbots,Free,136,4.236227,0.0,89,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+ai.perplexity.app.android,Perplexity - Ask Anything,Generative Text / Chatbots,Freemium,137,4.6365366,0.0,89,0.0,1,0.0,3,0.0,50.0,50.0,50.0,50.0,50.0,False
+ask.gpt.chatting.ai.charaterai,Ask GPT-4: AI Voice Chatbot,Generative Text / Chatbots,Freemium,49,4.4950495,0.0,20,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,True
+com.ai.chat.artificial.intelligence.aichat,AI Chat - Your AI Friend,Generative Text / Chatbots,Freemium,74,4.23,0.0,22,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.paragraphai.paragraphai,ParagraphAI: GPT Writer & Chat,Generative Text / Chatbots,Freemium,132,4.3018866,0.0,81,0.0,4,0.0,3,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.abacusai.chatllm,ChatLLM: AI Assistant & Chat,Generative Text / Chatbots,Freemium,109,4.8015265,0.0,52,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.wachanga.superchat,ChatGO - AI Chat Assistant,Generative Text / Chatbots,Freemium,23,4.7722774,0.0,6,,0,,0,0.009691304347826087,50.36,50.0,,,50.48,True
+com.prettyboa.chatai,Chatbot AI Plus: GPT Chat Bot,Generative Text / Chatbots,Freemium,9,4.21875,0.0,3,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.perplexity.comet,Comet: AI Browser & Assistant,Generative Text / Chatbots,Freemium,139,4.3432837,0.0,90,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.microsoft.office.officehubrow,Microsoft 365 Copilot,Generative Text / Chatbots,Freemium,154,4.5664625,0.0,101,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+im.monica.app.monica,Monica AI: Ultimate AI Assist,Generative Text / Chatbots,Freemium,96,4.379538,0.0,60,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.google.android.apps.googleassistant,Google Assistant,Generative Text / Chatbots,Free,122,3.7880497,0.0,97,,0,0.0,6,0.0,50.0,50.0,,50.0,50.0,False
+com.aichatbotassistant.app2024.android,Ocean AI－Chatbot・Ask Anything,Generative Text / Chatbots,Freemium,95,4.0740743,0.0,44,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.google.android.apps.labs.language.tailwind,Google NotebookLM,Generative Text / Chatbots,Free,135,4.8136287,0.0,93,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.google.android.wearable.assistant,Google Gemini on Wear OS,Generative Text / Chatbots,Free,120,3.2734585,0.0,61,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.facebook.stella,Meta AI - Vibes & AI Glasses,Generative Text / Chatbots,Freemium,116,4.547978,0.0,70,,0,0.0,3,0.0,50.0,50.0,,50.0,50.0,False
+com.starryai,starryai - AI Art Generator,Generative Text / Chatbots,Freemium,118,4.300193,0.0,93,,0,0.0,4,0.0,50.0,50.0,,50.0,50.0,False
+com.open.ai.chat.bot.ask.questions,Ai Chatbot - Talk to Ai Bot,Generative Text / Chatbots,Freemium,9,3.940594,0.0,3,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.gemini.android.app,Gemini Markets & Credit Card,Generative Text / Chatbots,Free,134,4.120872,0.0,91,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.google.android.apps.messaging,Google Messages,Generative Text / Chatbots,Free,117,4.573744,0.0,96,,0,0.0,4,0.0,50.0,50.0,,50.0,50.0,False
+com.app.ai.story.writer,AI Story Writer-Write Stories,Generative Text / Chatbots,Freemium,59,4.03,0.0,33,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.paragraphrewriter.ai_story_generator,AI Story Generator - Novel AI,Generative Text / Chatbots,Freemium,50,4.0119047,0.0,19,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.prepostseo.ai.storygenerator,AI Story Generator - Story AI,Generative Text / Chatbots,Freemium,30,4.2873564,0.0,16,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.aidungeon,AI Dungeon: RPG & Story Maker,Generative Text / Chatbots,Freemium,163,4.0299187,0.0,130,,0,0.0,4,0.0,50.0,50.0,,50.0,50.0,False
+com.squadhouse.storyworld,StoryZone: AI Text Adventure,Generative Text / Chatbots,Freemium,125,4.257732,0.0,91,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.mobitech.ai.story.generator.novel.maker,AI Story Generator AI Writer,Generative Text / Chatbots,Freemium,86,4.291262,0.0,49,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.app.storytimeai,Storytime AI: Story Generator,Generative Text / Chatbots,Freemium,83,4.254902,0.0,36,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.eastfrisia.aistorywriter,AI Story Generator: Novel AI,Generative Text / Chatbots,Freemium,1,3.5833333,,0,,0,,0,0.0,50.0,,,,50.0,True
+com.ford9.AI.Story.Maker.Novel.Generator.Creator.Writer.Builder,AI Story Generator Novel Maker,Generative Text / Chatbots,Freemium,46,3.9130435,0.0,24,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.storyflux.app,TaleStitch - AI Story Writing,Generative Text / Chatbots,Freemium,12,4.2325583,0.0,6,,0,,0,0.0,50.0,50.0,,,50.0,True
+co.appnation.storygenerator,AI Story Generator - Story AI,Generative Text / Chatbots,Freemium,4,3.6470587,0.0,3,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.fableapp,Fable: The AI Story Generator,Generative Text / Chatbots,Freemium,7,4.5581393,0.0,2,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.okudu.read,Okudu AI - Create Stories,Generative Text / Chatbots,Freemium,122,4.4158416,0.0,74,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.app.ai.novel.writer,AI Novel Writer - Write Novels,Generative Text / Chatbots,Freemium,39,4.38,0.0,19,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.app.ai.social.content,Social Media Content Generator,Generative Text / Chatbots,Freemium,20,4.41,0.0,4,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,True
+ai.video.generator,AI Video - AI Video Generator,Generative Text / Chatbots,Freemium,117,4.528923,0.0,80,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+free.ai.photo.generator.collart.ai,AI Video Generator: Collart AI,Generative Text / Chatbots,Freemium,116,3.8431373,0.0,55,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+io.invideo.ai,invideo AI: AI Video Generator,Generative Text / Chatbots,Freemium,120,4.1573224,0.0,80,0.0,4,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.pixverseai.pixverse,PixVerse: AI Video Generator,Generative Text / Chatbots,Freemium,107,4.4684186,0.0,84,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+ai.video.generator.sora.invideo,AI Video Generator & Photo AI,Generative Text / Chatbots,Freemium,76,4.535398,0.0,35,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+kling.ai.video.chat,Kling AI: AI Image&Video Maker,Generative Text / Chatbots,Freemium,112,4.587149,0.0,67,0.0,1,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.tesseractmobile.aiart,monAI - AI Art Generator,Generative Text / Chatbots,Freemium,114,4.54,0.0,69,0.0,3,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.virtual.video.i18n,AI Video Generator - Virbo,Generative Text / Chatbots,Freemium,99,3.6491227,0.0,70,0.0,1,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.predis.app,Social Media Posts - Predis AI,Generative Text / Chatbots,Freemium,55,4.56,0.0,20,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.galaxyAi.app,Galaxy.ai,Generative Text / Chatbots,Freemium,169,4.451923,0.0,113,0.0,2,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+org.ai.create.filter,Creati：AI Image Video Maker,Generative Text / Chatbots,Freemium,110,3.809013,0.0,66,0.0,2,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.cyberlink.vividai,MyEdit: AI Image Generator,Generative Text / Chatbots,Freemium,113,3.3069308,0.0,63,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+ai.aiart.aiartgenerator.creart,AI Image Generator - CreArt,Generative Text / Chatbots,Freemium,112,4.2690196,0.0,73,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.codemajik.writemaster,WriteMaster AI Content Writer,Generative Text / Chatbots,Freemium,102,3.52,0.0,46,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.pixerylabs.cloneai,CloneAI AI Video Generator,Generative Text / Chatbots,Freemium,140,2.3729904,0.0,75,0.0,3,0.0,1,-0.0016892857142857141,49.97,50.0,50.0,50.0,49.92,False
+com.vyroai.aiart,AI Image Generator: ImagineArt,Generative Text / Chatbots,Freemium,123,4.156978,0.0,92,0.0,2,0.0,1,0.0011284552845528455,50.02,50.0,50.0,50.0,50.06,False
+ai.replika.app,Replika: My AI Friend,Generative Text / Chatbots,Freemium,169,4.281785,0.0,126,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.Beauchamp.Messenger.external,Chai: Chat AI Platform,Generative Text / Chatbots,Freemium,162,4.1459026,0.0,116,0.0,2,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.KalromSystems.VoiceChatGPT,AI Voice Chat Bot: Open Wisdom,Generative Text / Chatbots,Freemium,107,4.490909,0.0,59,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.loora.app,Speak English with Loora AI,Generative Text / Chatbots,Freemium,124,4.9176,0.0,60,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.kindroid.app,Kindroid: Your Personal AI,Generative Text / Chatbots,Freemium,157,4.4374413,0.0,114,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+ai.talkpal,Talkpal - AI Language Learning,Generative Text / Chatbots,Freemium,130,4.342995,0.0,85,,0,,0,0.0,50.0,50.0,,,50.0,False
+net.cleanapps.email,Email Writer: AI Generator,Generative Text / Chatbots,Free,29,4.81,0.0,9,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,True
+ai.email.write,"AI Email, Reply Writer: Xemail",Generative Text / Chatbots,Freemium,67,4.7471266,0.0,26,,0,,0,0.0,50.0,50.0,,,50.0,False
+mail.ai,AI Email Writer,Generative Text / Chatbots,Freemium,12,4.525,0.0,3,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.emailwriter,QuickMail : AI Email Writer,Generative Text / Chatbots,Free,18,4.8,0.0,2,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.a1.ai.email.writer,AI Email Writer,Generative Text / Chatbots,Freemium,45,4.4927535,0.0,13,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,True
+com.kraph.emailwriting,AI Email Writer,Generative Text / Chatbots,Freemium,6,4.0833335,0.0,2,,0,,0,0.0,50.0,50.0,,,50.0,True
+tech.plink.friday,Friday: AI E-mail Assistant,Generative Text / Chatbots,Freemium,109,4.3980584,0.0,59,0.0,4,,0,0.0,50.0,50.0,50.0,,50.0,False
+net.cleanapps.paraphrase,Paraphrase Tool: Rephraser,Generative Text / Chatbots,Freemium,72,4.84,0.0,29,,0,,0,0.0,50.0,50.0,,,50.0,False
+dev.insider.apps.paraphrasing,"Paraphrase: Rewriter, Rephrase",Generative Text / Chatbots,Freemium,42,4.8,0.0,16,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.prepostseo.paraphrasingtool,Paraphrasing Tool,Generative Text / Chatbots,Freemium,87,3.85,0.0,31,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.allmath.paraphrase,Paraphrase Tool - Ai Writer,Generative Text / Chatbots,Free,40,4.15625,0.0,10,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.enzipe.app.paraphrasing,Paraphrase Tool - AI Rewriter,Generative Text / Chatbots,Free,9,3.1666667,0.0,2,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.synthrexlabs.phrazr,Paraphrase: AI Rewriter Tool,Generative Text / Chatbots,Freemium,1,3.8,,0,,0,,0,0.0,50.0,,,,50.0,True
+com.enzipe.parafrasis,AI Paraphraser,Generative Text / Chatbots,Free,10,4.0,0.0,6,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.sickappdevelopersgmbh.paraphrase,Paraphraser App Rewrite Text,Generative Text / Chatbots,Freemium,33,4.7391305,0.0,15,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.ardasen.paraphrase_rewording_tool,Paraphrase: Rewording Tool,Generative Text / Chatbots,Freemium,1,4.5454545,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.tr.paraphrasingtool.rewritertool.textrewriter,Paraphrasing Tool: AI Rewriter,Generative Text / Chatbots,Freemium,55,4.0416665,0.0,13,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.yes366.etm,ETM: AI Image Generator,Image Generation,Freemium,126,3.818482,0.0,77,,0,0.0,2,0.001876984126984127,50.06,50.0,,50.0,50.09,False
+ai.leonardo.leonardo,Leonardo.Ai - Image Generator,Image Generation,Freemium,113,4.7064776,0.0,68,,0,,0,0.0,50.0,50.0,,,50.0,False
+io.mewtant.pixaiart,PixAI: AI Anime Art Generator,Image Generation,Freemium,122,4.4473686,0.0,65,,0,,0,0.0,50.0,50.0,,,50.0,False
+co.appnation.artgenerator,AI Image Generator - Monet,Image Generation,Freemium,105,4.3317866,0.0,61,0.0,4,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.superapplabs.aura,AI Photo Generator - AURA AI,Image Generation,Freemium,104,4.344294,0.0,52,0.0,2,,0,-0.0022740384615384615,49.94,50.0,50.0,,49.89,False
+com.ai.artgenerator.imagegenerator,Ai Imagerator Image to Video,Image Generation,Freemium,70,3.42,0.0,28,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.aimage,AI Image Generator – AI ART,Image Generation,Freemium,150,3.99,0.0,84,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.technosub.unlimitedaiimagen,Unlimited AI Image Generator,Image Generation,Freemium,22,3.1,0.0,8,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.generated.art.maker.image.picture.photo.generator.painting,ARTA: AI Art & Photo Generator,Image Generation,Freemium,119,4.2483487,0.0,83,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.adobe.spark.post,"Adobe Express: AI Photo, Video",Image Generation,Freemium,109,4.6015525,0.0,83,0.0,1,0.0,4,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.tapuniverse.aiartgenerator,AI Art Generator: AI Picture,Image Generation,Freemium,126,4.1973414,0.0,87,0.0,3,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.simplified.aiphotos,Unleash AI,Image Generation,Freemium,42,3.0333333,0.0,19,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,True
+com.scaleup.dreame,Momo - AI Photo Generator,Image Generation,Freemium,120,4.39525,0.0,84,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.teamcruise.midjourney.stable.diffusion.image.generator,"AI Art: img, text, midjourney",Image Generation,Freemium,92,4.086331,0.0,41,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.hubx.imagination,DaVinci - AI Image Generator,Image Generation,Freemium,135,3.6203785,0.0,102,0.0,3,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.gencraftandroid,Gencraft - AI Art Generator,Image Generation,Freemium,123,3.432558,0.0,83,0.0,1,,0,0.0018682926829268294,50.05,50.0,50.0,,50.09,False
+com.freepikcompany.freepik,Freepik AI: Video Generator,Image Generation,Freemium,98,4.31,0.0,55,,0,0.0,3,0.0,50.0,50.0,,50.0,50.0,False
+ai.photify.app,Photify AI: AI Photo Generator,Image Generation,Freemium,116,4.1666665,0.0,73,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.codeway.wonder,Wonder - AI Art Generator,Image Generation,Freemium,162,3.2982597,0.0,120,0.0,2,0.0,3,0.0,50.0,50.0,50.0,50.0,50.0,False
+version.ai.photo.generator,Version AI: AI Photo Generator,Image Generation,Freemium,11,4.6488547,0.0,2,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.womboai.wombodream,WOMBO Dream - AI Art Generator,Image Generation,Freemium,171,3.6937914,0.0,131,0.0,1,0.0,4,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.spellbrush.nijijourney,niji・journey - AI Anime Art,Image Generation,Freemium,144,4.009901,0.0,95,0.0,2,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.catchmobile.lume.android,Lume - AI Photo Generator,Image Generation,Freemium,33,4.0194173,0.0,14,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,True
+ai.deevid.aivideogenerator,DeeVid：AI Video Generator,Image Generation,Freemium,76,3.3960395,0.0,32,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.magiclight.app,MagicLight:AI Long Video Maker,Image Generation,Freemium,91,4.04,0.0,44,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.microsoft.designer,Microsoft Designer,Image Generation,Freemium,119,3.4245284,0.0,68,,0,0.0,4,0.0014058823529411765,50.04,50.0,,50.0,50.07,False
+com.elias.nano_banana_photo_editor,Banana AI: AI Image Editor,Image Generation,Freemium,10,4.5096154,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.cartoon.art.generator,AI Cartoon Generator-Art Maker,Image Generation,Freemium,57,4.3366337,0.0,20,,0,,0,0.0,50.0,50.0,,,50.0,False
+kallossoft.avatar,Avatarro: AI Avatar Maker,Image Generation,Freemium,88,4.47,0.0,36,0.0,3,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.elven.video,VideoGPT - AI Video Generator,Image Generation,Freemium,109,4.536802,0.0,65,,0,,0,0.0012733944954128442,50.05,50.0,,,50.06,False
+com.feraset.livensa,AI Video Generator: Livensa,Image Generation,Freemium,115,4.103481,0.0,85,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+ai.video.generator.editor,Clipfly - AI Baby Dance Video,Image Generation,Freemium,49,4.17,0.0,22,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.photo.app,Funo AI: Photo Creator,Image Generation,Freemium,87,3.9558823,0.0,40,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+cartoon.anime.maker.ai.avatar.image.generator.app,Cartoon Photo Editor ・Toon AI,Image Generation,Freemium,81,4.5,0.0,32,,0,,0,0.0,50.0,50.0,,,50.0,False
+ai.krnl.onemoreshot,AI Music Video Generator - 1MS,Image Generation,Freemium,119,3.9722223,0.0,60,0.0,1,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+photo.editor.photoeditor.photoeditorpro,AI Photo Editor - Polish,Image Generation,Freemium,120,4.807566,0.0,99,0.0,2,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.canva.editor,Canva: AI Photo & Video Editor,Image Generation,Freemium,109,4.780382,0.0,87,,0,0.0,3,0.0,50.0,50.0,,50.0,50.0,False
+com.picsart.studio,"Picsart AI Photo Editor, Video",Image Generation,Freemium,128,4.0537395,0.0,99,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.photoroom.app,Photoroom: AI Photo Editor,Image Generation,Freemium,119,4.6998534,0.0,101,0.0,3,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+ai.photo.video.generator.foto.imagen.filter.animation.maker.picture.ia.trend,"Pose: AI Video Maker, AI Photo",Image Generation,Freemium,121,4.4467173,0.0,75,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+ar.drawing.sketch.paint.trace.draw.picture.paper,AR Drawing: Sketch & Paint,Image Generation,Freemium,114,4.3665237,0.0,52,,0,,0,0.0020157894736842104,50.08,50.0,,,50.1,False
+com.draw.sketch.ardrawing.trace.anime.paint,AR Easy Draw - Trace Sketch,Image Generation,Freemium,129,4.1229267,0.0,73,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+drawing.trace.sketch.draw.anything,AI Drawing : Trace & Sketch,Image Generation,Freemium,112,3.68,0.0,64,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.draw.sketch.ardrawing.paint.anime,Draw Anime - AR Tracing App,Image Generation,Free,99,4.2369943,0.0,56,,0,,0,0.002321212121212121,50.09,50.0,,,50.12,False
+ar.drawing.paint.draw.sketch.art.trace.drawing.app,AR Drawing Paint Sketch Trace,Image Generation,Freemium,91,4.866667,0.0,35,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.veewalabs.traceanddraw,AR Drawing: Trace and Draw,Image Generation,Freemium,74,4.4158416,0.0,30,0.0,1,,0,0.0033783783783783786,50.09,50.0,50.0,,50.17,False
+com.kraph.draweasy,Draw Easy AI: AR Trace Sketch,Image Generation,Freemium,101,3.48,0.0,63,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.iApp.ar.drawing.traceanything,AR Drawing : Trace Anything,Image Generation,Freemium,112,4.5581393,0.0,69,,0,,0,0.001175,50.04,50.0,,,50.06,False
+tracesketch.draweasy.traceanything,Trace Drawing－Sketch and Paint,Image Generation,Freemium,91,4.58,0.0,35,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.drawing.trace.draw.sketch.masterpiece,AI Drawing - Trace and Draw,Image Generation,Freemium,65,4.107527,0.0,33,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.appzia.aidrawing.tracesketch,AI Drawing Trace & Sketch,Image Generation,Freemium,30,3.6363637,0.0,5,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.adsk.sketchbook,Sketchbook,Image Generation,Freemium,149,4.0033326,0.0,123,0.0,2,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.ardrawing.aranime.sketchtrace,AR Drawing & Anime Drawing,Image Generation,Freemium,43,4.2272725,0.0,15,,0,,0,0.0,50.0,50.0,,,50.0,True
+io.github.xororz.localdream,Local Dream,Image Generation,Free,29,4.6296296,0.0,9,,0,,0,0.0,50.0,50.0,,,50.0,True
+info.devtool.aiart,AI Diffusion Art Creator,Image Generation,Free,10,3.0,0.0,5,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.microsoft.emmx,Microsoft Edge: AI browser,Image Generation,Freemium,139,4.684301,0.0,95,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.anthropic.claude,Claude by Anthropic,Image Generation,Freemium,143,4.6549315,0.0,110,0.0,2,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.shifthackz.aisdv1.app,SDAI — AI Image generator,Image Generation,Free,97,2.48,0.0,40,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.vidu.oversea,Vidu - AI Video Generator,Image Generation,Freemium,104,4.8906884,0.0,55,,0,,0,0.0,50.0,50.0,,,50.0,False
+ai.avatar.generator.maker,AI Avatar Maker: Create Avatar,Image Generation,Freemium,28,4.41,0.0,14,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.dreamapp.dubhe,DreamFace: AI Video Generator,Image Generation,Freemium,108,4.819521,0.0,59,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.bendingspoons.dawn.ai,Dawn AI - Avatar Generator,Image Generation,Freemium,146,2.037594,0.0,92,0.0,2,0.0,1,0.0007034246575342466,50.01,50.0,50.0,50.0,50.04,False
+com.gsy.selfie.ai,Selfie AI: AI Photo Generator,Image Generation,Freemium,1,4.428571,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+face.cartoon.picture.editor.emoji,Avatoon® - Avatar Maker,Image Generation,Freemium,127,4.687468,0.0,87,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.prequelapp.oji,Oji: AI Avatar Photo Generator,Image Generation,Freemium,134,4.327869,0.0,70,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.cicada.jogg,JoggAI: AI Avatar Video,Image Generation,Free,16,3.7777777,0.0,5,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.luckycatarts.glo,Glo: AI Avatar Photo Generator,Image Generation,Freemium,72,3.57,0.0,31,0.0,3,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.game.SuperMii,SuperMe - Avatar Maker Creator,Image Generation,Freemium,136,3.6204379,0.0,85,,0,0.0,3,0.0,50.0,50.0,,50.0,50.0,False
+ai.imgit.art_generator,"IMGIT AI Art, Avatar Generator",Image Generation,Freemium,134,4.1235156,0.0,96,0.0,3,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.spherum.spherumVolume,AVAT.Ai-3D Avatar Creator,Image Generation,Freemium,33,3.62,0.0,13,,0,,0,0.006754545454545454,50.25,50.0,,,50.34,True
+com.fourksoft.genzart,GenZArt: Fast AI Art Generator,Image Generation,Freemium,141,4.1821194,0.0,103,0.0,2,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+ai.photo.enhancer.photoclear,UpFoto - AI Photo Enhancer,Image Generation,Freemium,103,4.516566,0.0,60,,0,0.0,3,0.0,50.0,50.0,,50.0,50.0,False
+photo.editor.photoeditor.filtersforpictures,AI Photo Editor - Lumii,Image Generation,Freemium,97,4.768432,0.0,66,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.bigwinepot.nwdn.international,Remini - AI Photo Enhancer,Image Generation,Freemium,114,4.1379166,0.0,90,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+tap.photo.boost.restoration,PhotoBoost - AI Photo Enhancer,Image Generation,Freemium,110,4.603435,0.0,65,0.0,1,,0,0.002089090909090909,50.06,50.0,50.0,,50.1,False
+com.nero.image_upscaler,AI Photo Enhancer & Upscaler,Image Generation,Freemium,83,4.48,0.0,37,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.scaleup.photofx,PhotoApp - AI Photo Enhancer,Image Generation,Freemium,124,4.187583,0.0,81,0.0,3,0.0,1,0.0020161290322580645,50.04,50.0,50.0,50.0,50.1,False
+ai.photo.enhancer.ig.tiktok.editor.remini.pixelup.hd.free,AI Photo Enhancer - Evoke,Image Generation,Freemium,100,4.405694,0.0,64,0.0,4,0.0,1,0.0013880000000000001,50.03,50.0,50.0,50.0,50.07,False
+editingapp.pictureeditor.photoeditor,"Photo Editor: Retouch, Enhance",Image Generation,Freemium,93,4.6995883,0.0,56,0.0,2,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.repairitandroid.prd,Relumi - AI Photo Enhancer,Image Generation,Freemium,34,4.1714287,0.0,12,,0,0.0,1,-0.004920588235294118,49.85,50.0,,50.0,49.75,False
+com.zhenxiang.superimage.pro,SuperImage Pro - AI Enhancer,Image Generation,Paid,103,4.65,0.0,54,,0,,0,0.0,50.0,50.0,,,50.0,False
+intechsolutions.photoenhancer,AI Photo Enhancer - BlurBuster,Image Generation,Freemium,125,4.1796503,0.0,80,0.0,1,0.0,4,0.0,50.0,50.0,50.0,50.0,50.0,False
+mobi.zeezoo.photoenhancer,AI Photo Enhancer & AI Studio,Image Generation,Freemium,99,4.43,0.0,46,0.0,1,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.tapuniverse.aiphotoeditor,AI Photo Editor: AI Expand,Image Generation,Freemium,60,4.3267326,0.0,25,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.pixlr.express,Pixlr AI Photo Editor,Image Generation,Freemium,159,4.144053,0.0,104,0.0,3,0.0,6,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.everimaging.photoeffectstudio,Fotor–AI Photo Editor&Enhancer,Image Generation,Freemium,114,4.285027,0.0,90,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+vsin.t16_funny_photo,Photo Lab Picture Editor & Art,Image Generation,Freemium,120,4.477947,0.0,86,0.0,5,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.xt.retouchoversea,Hypic - Photo Editor & AI Art,Image Generation,Freemium,117,4.080645,0.0,78,0.0,3,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+app.getglam,Glam AI: Video & Photo Editor,Image Generation,Freemium,129,4.5274167,0.0,94,,0,0.0,3,0.0,50.0,50.0,,50.0,50.0,False
+com.adobe.lrmobile,Lightroom Photo & Video Editor,Image Generation,Freemium,108,4.5464773,0.0,92,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.circular.pixels,Pixelcut AI Photo Editor,Image Generation,Freemium,123,4.2616463,0.0,83,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.mt.mtxx.mtxx,Meitu- AI Photo & Video Editor,Image Generation,Freemium,106,4.567203,0.0,70,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.adobe.psmobile,Photoshop Express Photo Editor,Image Generation,Freemium,124,4.554166,0.0,100,0.0,3,,0,0.001061290322580645,50.03,50.0,50.0,,50.05,False
+com.cyberlink.youperfect,YouCam Perfect - Photo Editor,Image Generation,Freemium,115,3.9421558,0.0,76,0.0,3,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.skylum.luminar,Luminar: AI Photo Editor,Image Generation,Freemium,118,4.355769,0.0,59,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.lensa.app,Lensa: photo editor & AI art,Image Generation,Freemium,126,4.0651474,0.0,96,0.0,2,0.0,3,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.adobe.photoshop.retail,Adobe Photoshop: Photo Editor,Image Generation,Freemium,87,4.24,0.0,36,0.0,1,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.meitu.meiyancamera,BeautyCam-AI Photo Editor,Image Generation,Freemium,116,3.9006023,0.0,80,0.0,2,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+ai.photo.enhancer.photoeditor.app,AI Photo Editor & Art - Picsly,Image Generation,Freemium,2,4.0,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.photo.editor.eraser.app,"AI Photo Editor, Remove Object",Image Generation,Freemium,89,4.5433073,0.0,41,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.prequelapp.aistudio,GIO: AI Headshot Generator,Image Generation,Freemium,129,4.5916553,0.0,84,0.0,3,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+co.appnation.aiphotostudio,AI Photo Generator - Fotorama,Image Generation,Freemium,106,4.147059,-0.0036953125,64,,0,,0,-0.002231132075471698,49.87,49.82,,,49.89,False
+com.itechgemini.code_ai,Code AI : AI Code Writer,AI Coding Assistants,Freemium,77,4.2,0.0,27,0.0,2,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.blackbox.blackboxapp,BLACKBOX.AI,AI Coding Assistants,Free,114,3.1683168,0.0,64,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.replit.app,Replit: Build apps with AI,AI Coding Assistants,Freemium,128,4.525974,0.0,86,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.itechgemini.dev_ai,Dev AI-Code Editor & Generator,AI Coding Assistants,Freemium,12,4.14,0.0,4,,0,,0,0.0,50.0,50.0,,,50.0,True
+dev.a0.android.app,AI App Builder - a0.dev,AI Coding Assistants,Freemium,46,4.5576925,0.0,19,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.datacamp,DataCamp: Learn Coding & AI,AI Coding Assistants,Freemium,118,4.6358023,0.0,87,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+ai.ninjatech.mobile,"Ninja AI: Chat, Code & Create",AI Coding Assistants,Freemium,58,3.36,0.0,34,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.mukund.codingai,Coding AI,AI Coding Assistants,Freemium,119,4.31,0.0,69,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+app.onspace.ai,OnSpace AI:Mobile App Builder,AI Coding Assistants,Freemium,28,2.4375,0.0,18,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,True
+ai.mistral.chat,Le Chat by Mistral AI,AI Coding Assistants,Freemium,134,4.490196,0.0,64,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.emergentagent.app,Emergent AI: Vibe Code Apps,AI Coding Assistants,Freemium,39,3.6666667,0.0,17,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.appnativeaichat,AI Chat Assistant - Mosaic 5.0,AI Coding Assistants,Freemium,26,4.285714,,0,,0,,0,0.0,50.0,,,,50.0,True
+com.ford9.ai.coding.generator.code.creator.maker.writer.builder.assistant,AI Code Generator: Code Editor,AI Coding Assistants,Freemium,11,3.0,0.0,7,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.ai1min.application,1min AI,AI Coding Assistants,Freemium,122,4.5728154,0.0,71,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.suponoholdings.grokchat,Q-AI Chatbot Assistant,AI Coding Assistants,Freemium,32,3.9574468,0.0,10,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.pocketpalai,PocketPal AI,AI Coding Assistants,Free,116,3.86,0.0,57,0.0,1,0.0,1,0.001981034482758621,50.04,50.0,50.0,50.0,50.1,False
+com.app.ai.code,"AI Code Generator, Code Writer",AI Coding Assistants,Freemium,34,4.36,0.0,13,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.fullstack.aicodegenerator,AI Code Generator,AI Coding Assistants,Freemium,115,4.8461537,0.0,61,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.fullstack.aihtmlcodegenerator,AI HTML Code Generator,AI Coding Assistants,Freemium,105,4.6363635,0.0,54,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.itechgemini.kode_ai,Kode AI - AI Code Generator,AI Coding Assistants,Freemium,1,4.2,,0,,0,,0,0.0,50.0,,,,50.0,True
+com.fullstack.aipythoncodegenerator,AI Python Code Generator,AI Coding Assistants,Freemium,106,4.214286,0.0,58,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.appmaker.appmaker,Vibecode - AI App Generator,AI Coding Assistants,Freemium,117,2.59,0.0,45,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+in.blueplanetapps.oceansofai,Oceans of AI - All AI Tools,AI Coding Assistants,Free,30,4.233333,0.0,8,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,True
+com.markodevcic.js_code_pad,JavaScript Coding Editor & IDE,AI Coding Assistants,Freemium,29,3.925,0.0,8,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.artificialintelligence.artificial.intelligence.programming.learn.coding.robotics.leanai,Learn AI & ML with Python,AI Coding Assistants,Freemium,112,4.66,0.0,60,0.0,2,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.getmimo,Mimo: Learn Coding/Programming,AI Coding Assistants,Freemium,142,4.699507,0.0,106,0.0,2,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.enki.insights,Enki: Learn to code,AI Coding Assistants,Freemium,120,4.5888076,0.0,87,0.0,1,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.amensah.easycoder.python,EasyCoder AI: Learn Python,AI Coding Assistants,Freemium,126,4.23,0.0,84,0.0,2,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.google.android.googlequicksearchbox,Google,AI Coding Assistants,Free,123,4.072807,0.0,94,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.amensah.easycoder,EasyCoder AI: Learn Java,AI Coding Assistants,Freemium,128,4.25,0.0,74,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.freeit.java,Programming Hub: Learn to code,AI Coding Assistants,Freemium,133,4.6622853,0.0,102,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.coddykit.aicodeeditor,CoddyAI: AI Code Editor,AI Coding Assistants,Freemium,5,4.0,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.markodevcic.python_code_pad,Python Coding Editor & IDE App,AI Coding Assistants,Freemium,85,4.09901,0.0,40,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.ikou.pycoding,PyCoder - Python3 IDE with AI,AI Coding Assistants,Freemium,27,4.5555553,0.0,14,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.orderax.afs,AppForceStudio: AI App Builder,AI Coding Assistants,Freemium,3,3.6,0.0,3,,0,,0,0.0,50.0,50.0,,,50.0,True
+io.coolplay.appprompter,App Prompter - AI App Builder,AI Coding Assistants,Free,21,4.185185,0.0,14,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,True
+cn.trinea.android.developertools,Dev Tools(Developer)-Decompile,AI Coding Assistants,Freemium,126,4.557377,0.0,78,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.ai.skillium,Skillium – Learn AI Tools,AI Coding Assistants,Freemium,67,4.8636365,0.0,26,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.opera.browser,Opera: Private Web Browser,AI Coding Assistants,Freemium,126,4.747258,0.0,95,,0,0.0,4,0.0,50.0,50.0,,50.0,50.0,False
+com.roysolberg.android.developertools,Developer Tools,AI Coding Assistants,Free,70,4.19,0.0,27,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+ch.rea.app,myReach - AI Assistant,Productivity AI,Free,17,4.121212,0.0,7,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,True
+com.ariesapp.elisi.elisiwrapper,Elisi: AI Smart Task Planner,Productivity AI,Freemium,142,3.67,0.0,104,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+notion.id,"Notion: Notes, Tasks, AI",Productivity AI,Freemium,145,4.677291,0.0,118,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.hubx.noteai,Note AI: Smart Note Taker,Productivity AI,Freemium,101,4.3271027,0.0,54,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+ai.inflection.pi,"Pi, your personal AI",Productivity AI,Free,125,3.5165563,-0.002263636363636364,77,0.0,2,-0.1743,1,-0.0013944,48.64,49.89,50.0,41.28,49.93,False
+com.gomind,GoMind AI: AI Tasks & Notes,Productivity AI,Free,28,4.7,0.0,12,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.smart.chat,AI Smart Chat | AI Assistant,Productivity AI,Freemium,7,4.736842,0.0,2,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.fireflies.mobile,Fireflies: AI notetaker,Productivity AI,Free,98,4.6732674,0.0,45,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+ai.turbolearn,Turbo AI - Notetaker,Productivity AI,Freemium,119,4.753456,0.0,74,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.aisense.otter,OtterAI Transcribe Voice Notes,Productivity AI,Freemium,168,4.277146,0.0,129,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+io.labhouse.audioapp,Summary - AI Note Taker,Productivity AI,Freemium,106,4.589928,0.0,50,0.0,1,,0,-0.002231132075471698,49.94,50.0,50.0,,49.89,False
+com.ma.waveapp,Wave AI Note Taker & Recorder,Productivity AI,Freemium,101,4.57037,0.0,54,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.codespaceapps.meetingtranscriber,Smart Noter - AI Note Taker,Productivity AI,Freemium,108,4.392857,0.0,64,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.studocu.app,Studocu: AI Notes & Summaries,Productivity AI,Freemium,97,4.5825243,0.0,60,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.feraset.ainote,AI Note Taker - Meeting Notes,Productivity AI,Freemium,18,4.287129,0.0,5,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.plaud.android.plaud,Plaud: AI Note Taker,Productivity AI,Freemium,117,4.7513814,0.0,67,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.sota.ainotex,NoteX: AI Notes & Meetings,Productivity AI,Freemium,57,4.38,0.0,29,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.recordpro.audiorecord,HiNoter - AI Note Taker,Productivity AI,Freemium,16,4.73,0.0,2,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.meetgeek.assistant,AI Transcribe. Speech to Text,Productivity AI,Freemium,49,4.409091,0.0,24,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.yygg.note.app,"Notewise - AI Notes, PDF, Docs",Productivity AI,Freemium,141,4.5875707,0.0,102,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.appzone.noteai,"Notes AI: Note Taker, Notebook",Productivity AI,Free,15,4.55,0.0,5,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.studyai.ainotetaker,NoteLyn: AI Note Taker & Study,Productivity AI,Freemium,4,5.0,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.meeting.app,Meeting.ai: AI Visual Notes,Productivity AI,Freemium,26,4.58,0.0,3,0.0,1,,0,0.008573076923076923,50.24,50.0,50.0,,50.43,True
+app.coconote,Coconote - AI Note Taker,Productivity AI,Freemium,80,4.4158416,0.0,41,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.microsoft.office.onenote,Microsoft OneNote: Save Notes,Productivity AI,Free,149,4.629319,0.0,112,0.0,2,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.imemoapp,iMemo AI Note Taker Transcribe,Productivity AI,Freemium,5,4.3703704,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.notes.notebook,HyNote: AI Notebook LLM Notes,Productivity AI,Freemium,87,4.3,0.0,39,0.0,2,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.joyolabs.noteify,CraftNote – AI Note Taker,Productivity AI,Freemium,77,4.6239314,0.0,30,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.google.android.keep,Google Keep - Notes and lists,Productivity AI,Free,127,4.692614,0.0,99,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.compasswearable,Fieldy - AI note taker,Productivity AI,Freemium,84,3.97,0.0,48,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+ai.krisp.krispMobile,Krisp AI Meeting Note Taker,Productivity AI,Free,44,3.7868853,0.0,18,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,True
+com.hmd.quickrecorder,Owll: Al Note Taker Assistant,Productivity AI,Freemium,16,4.4257426,0.0,4,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.langogo.transcribe,Notta-Transcribe Audio to Text,Productivity AI,Freemium,106,4.0088496,0.0,66,0.0,2,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.read.ai,Read AI: Meeting Notes,Productivity AI,Free,5,4.7,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.mi.minutes.ai,Auto Minutes: AI Meeting Note,Productivity AI,Freemium,11,4.3333335,0.0,8,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.slam.minutes,Minutes: AI Meeting Note Taker,Productivity AI,Freemium,74,4.4059405,0.0,32,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.google.android.apps.tasks,Google Tasks,Productivity AI,Free,136,4.5975585,0.0,78,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.todoist,Todoist: To Do List & Calendar,Productivity AI,Freemium,161,4.5861,0.0,128,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+co.mangotechnologies.clickup,"ClickUp: Tasks, Chat, Docs, AI",Productivity AI,Free,140,3.8671587,0.0,99,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.anydo,Any.do - To do list & Calendar,Productivity AI,Freemium,144,4.390717,0.0,112,,0,0.0,3,0.0,50.0,50.0,,50.0,50.0,False
+com.nick.weiss.Decomposer,ADHD Planner AI Task: Splitti,Productivity AI,Freemium,8,3.0,0.0,5,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.superlist.superlist,Superlist: Tasks & Notes,Productivity AI,Freemium,134,4.26,0.0,83,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.schezzy.app,FlowSavvy: AI Schedule Planner,Productivity AI,Freemium,132,4.63,0.0,102,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.codcy.focs,AI Tasks & Focus Planner,Productivity AI,Freemium,4,3.857143,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.akiflow.mobile,Akiflow: AI Planner & Calendar,Productivity AI,Freemium,110,3.7466667,0.0,45,0.0,2,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.microsoft.todos,Microsoft To Do: Lists & Tasks,Productivity AI,Free,154,4.635616,0.0,105,0.0,1,0.0,4,0.0,50.0,50.0,50.0,50.0,50.0,False
+ai.transcribe.voice.to.text.notes.meeting.assistant,AI Transcribe Speech to Text,Productivity AI,Freemium,104,4.06,0.0,59,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.innosq.soundtypeai,SoundType AI - Voice To Text,Productivity AI,Freemium,115,4.497758,0.0,81,0.0,2,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.ai.transcribe.voice.to.text.free,Voice to Text: AI Transcribe,Productivity AI,Freemium,24,4.7647057,0.0,6,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.podi,AI Transcribe Audio to Text,Productivity AI,Freemium,71,4.4257426,0.0,37,,0,,0,0.00313943661971831,50.12,50.0,,,50.16,False
+com.dktlabs.anytranscribe,Transcribe Speech to Text,Productivity AI,Freemium,50,4.48,0.0,19,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,True
+com.transcribe.audio.to.text,Transcribe audio to text,Productivity AI,Freemium,46,4.4326925,0.0,21,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,True
+com.google.audio.hearing.visualization.accessibility.scribe,Live Transcribe & Notification,Productivity AI,Free,114,3.6063554,0.0,59,,0,0.0,1,0.001217543859649123,50.04,50.0,,50.0,50.06,False
+com.testa.databot,Voice Assistant DataBot AI,Productivity AI,Freemium,133,4.0833335,0.0,84,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.customsolutions.android.alexa,Ultimate Alexa Voice Assistant,Productivity AI,Freemium,136,3.650259,0.0,95,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.smartremote.homepodsiri,Voice AI Assistant for Seri,Productivity AI,Freemium,60,4.4529915,0.0,21,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.jegan.aiva,AVA: AI Productivity Assistant,Productivity AI,Freemium,17,4.3333335,0.0,7,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.infolens.voice,AI Voice Chat GPT - InfoLens,Productivity AI,Freemium,24,4.28,0.0,9,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.amazon.dee.app,Amazon Alexa,Productivity AI,Free,148,4.096862,0.0,111,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.KalromSystems.AIVoiceChatOpenWisdom,AI Speech Chatbot Text & Voice,Productivity AI,Freemium,66,4.75,0.0,20,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.ffp.jarvis_chat_gpt,Jarvis - AI Chatbot,Productivity AI,Freemium,94,3.93,0.0,39,0.0,1,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+voice.recorder.note.ai.transcriber,Note AI: Voice AI Transcribe,Productivity AI,Freemium,12,4.205128,0.0,6,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.brainlogic.zapia,Zapia AI - Personal Assistant,Productivity AI,Free,37,4.74,0.0,13,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.voicetonotes.mobileapp,VoiceToNotes AI: Voice to Text,Productivity AI,Freemium,28,4.0,0.0,22,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.leonfiedler.voiceai,Voices AI: Voice Changer,Productivity AI,Freemium,101,4.3839507,0.0,57,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+ai.leaaxel.axel,Axel AI—Personal General Agent,Productivity AI,Freemium,9,3.6,0.0,4,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.callassistant.android,AI Call Assistant & Screener,Productivity AI,Freemium,138,3.2,0.0,79,,0,0.0,3,0.0,50.0,50.0,,50.0,50.0,False
+ai.orionarm.toki,Toki - The AI Calendar,Productivity AI,Freemium,27,4.59375,0.0,7,,0,,0,0.008511111111111112,50.32,50.0,,,50.43,True
+com.appgenix.bizcal,Business Calendar 2 Planner,Productivity AI,Freemium,172,4.5383205,0.0,124,,0,0.0,4,0.0,50.0,50.0,,50.0,50.0,False
+com.google.android.calendar,Google Calendar,Productivity AI,Free,122,4.6497655,0.0,84,,0,0.0,3,0.0,50.0,50.0,,50.0,50.0,False
+me.sync.syncai,Calendar – Smart Scheduler,Productivity AI,Freemium,108,4.1,0.0,53,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.orangefish.ai.chatgpt.chatgpt_wrapper,AI Calendar - 1 Line Scheduler,Productivity AI,Free,6,5.0,0.0,2,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.komorebi.SimpleCalendar,Simple Calendar - easy planner,Productivity AI,Freemium,113,4.732456,0.0,72,,0,0.0,1,0.001972566371681416,50.06,50.0,,50.0,50.1,False
+com.calendar.cute,Cute Calendar Schedule Planner,Productivity AI,Freemium,116,4.4016066,0.0,85,,0,0.0,2,0.0021551724137931034,50.06,50.0,,50.0,50.11,False
+super.planner.todolist.task.reminder,Super Planner: ADHD Routine AI,Productivity AI,Freemium,82,4.5686274,0.0,56,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.komorebi.n.calendar,"N Calendar: Planner, Schedule",Productivity AI,Freemium,120,4.82,0.0,70,,0,,0,0.0,50.0,50.0,,,50.0,False
+calendar.agenda.calendarplanner.agendaplanner,Calendar Planner - Agenda App,Productivity AI,Freemium,107,4.4148936,0.0,71,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.usemotion.motion,Motion: Tasks & AI Scheduling,Productivity AI,Free,158,4.13,0.0,113,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.digibites.calendar,DigiCal Calendar Agenda,Productivity AI,Freemium,148,4.4712873,0.0,103,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.aecd9d0bc1e7.app,ezyorganizer AI calendar,Productivity AI,Freemium,22,3.69,0.0,13,,0,,0,0.0,50.0,50.0,,,50.0,True
+neurolist.app.neurolist,neurolist꞉ AI Planner for ADHD,Productivity AI,Freemium,139,4.5889726,0.0,106,,0,0.0,3,0.0,50.0,50.0,,50.0,50.0,False
+com.albul.timeplanner,Time Planner: Schedule & Tasks,Productivity AI,Freemium,151,4.046154,0.0,116,0.0,2,,0,0.0,50.0,50.0,50.0,,50.0,False
+org.withouthat.acalendar,aCalendar - your calendar,Productivity AI,Freemium,148,4.366071,0.0,107,0.0,1,0.0,6,0.0,50.0,50.0,50.0,50.0,50.0,False
+works.jubilee.timetree,TimeTree - Shared Calendar,Productivity AI,Freemium,169,4.6920733,0.0,123,0.0,1,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.simplemobiletools.calendar.pro,Simple Calendar Pro,Productivity AI,Paid,148,4.5643044,0.0,114,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.claudivan.taskagenda,Task Agenda Calendar & Planner,Productivity AI,Freemium,122,4.67,0.0,63,,0,0.0,1,-0.0018270491803278688,49.95,50.0,,50.0,49.91,False
+com.foyer.pdfai,PDF AI: PDF Summarizer & Chat,Productivity AI,Freemium,23,4.4444447,0.0,7,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,True
+com.document.ai.documentai,PDF AI: Document Summarizer,Productivity AI,Freemium,1,4.6,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+dev.insider.apps.summary,Summary: AI Text Summarizer,Productivity AI,Freemium,16,4.703704,0.0,9,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.summarizer.org,AI Summarizer: Essay & Story,Productivity AI,Freemium,18,3.6923077,0.0,7,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.aya.textsummarizer,Summary AI - TLDR Summarize,Productivity AI,Freemium,86,4.37,0.0,36,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.textsummarizer.summarizer,Text Summarizer: Short summary,Productivity AI,Freemium,9,3.6470587,0.0,3,,0,,0,0.0,50.0,50.0,,,50.0,True
+chatpdf.pro,PDF AI: Visual Notes & Podcast,Productivity AI,Freemium,91,4.713287,0.0,61,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.adobe.reader,Adobe Acrobat Reader: Edit PDF,Productivity AI,Freemium,126,4.480259,0.0,93,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+pdf.pdfreader.viewer.editor.free,PDF Reader - PDF Viewer,Productivity AI,Freemium,108,4.373646,0.0,66,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.chatpdf.android,ChatPDF - Chat PDF AI,Productivity AI,Freemium,27,4.6704545,0.0,9,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.viewpdf.readdocument.smart.tool,PDF Reader  Smart AI Assistant,Productivity AI,Free,5,3.9375,0.0,3,,0,,0,0.0,50.0,50.0,,,50.0,True
+org.readera,ReadEra – book reader pdf epub,Productivity AI,Free,139,4.839413,0.0,105,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+quick.read.app,Quickify: AI PDF Reader & TTS,Productivity AI,Freemium,65,4.095238,0.0,27,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+pdfreader.pdfviewer.officetool.pdfscanner,PDF Reader App : Read All PDF,Productivity AI,Freemium,96,4.3856115,0.0,59,,0,,0,0.0,50.0,50.0,,,50.0,False
+de.knowunity.app,Knowunity: AI Study Helper,Productivity AI,Freemium,139,4.277487,0.0,78,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.education.android.h.intelligence,Gauth: AI Study Companion,Productivity AI,Freemium,126,4.784009,0.0,95,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.codeway.homework,Nerd AI - Tutor & Math Helper,Productivity AI,Freemium,103,4.592533,0.0,72,,0,,0,0.0,50.0,50.0,,,50.0,False
+co.brainly,Brainly: AI Homework Helper,Productivity AI,Freemium,108,4.5019503,0.0,67,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.studysmarter,"Vaia: Study, Notes, Flashcards",Productivity AI,Freemium,126,4.4594593,0.0,88,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.intsig.camexam,Quiz AI: AI Homework Helper,Productivity AI,Freemium,59,4.72549,-0.008916,25,,0,,0,-0.003777966101694915,49.75,49.55,,,49.81,False
+com.quizlet.quizletandroid,Quizlet: More than Flashcards,Productivity AI,Freemium,141,4.7126727,0.0,106,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.brilian.studyx.student,StudyX: AI Homework Helper,Productivity AI,Freemium,105,4.5148516,0.0,71,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.cyberdavinci.gptkeyboard,Answer.AI - Your AI tutor,Productivity AI,Freemium,105,4.7401733,0.0,80,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+ai.saveall.app,Gizmo: AI Flashcards and Tutor,Productivity AI,Freemium,144,4.6516128,0.0,104,0.0,4,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.qianfan.aihomework,Question.AI - Chatbot&Math AI,Productivity AI,Freemium,114,4.6544075,0.0,84,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+study.thea.www.twa,Thea: Study Smart,Productivity AI,Freemium,140,4.79,0.0,87,0.0,4,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.alpaca.flashcardsmaker,Flashcard maker,Productivity AI,Freemium,104,4.811321,0.0,56,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.knowt.app,Knowt: AI Flashcards & Notes,Productivity AI,Freemium,107,4.69,0.0,73,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.ichi2.anki,AnkiDroid Flashcards,Productivity AI,Free,138,4.849524,0.0,95,0.0,2,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.flutterflow.kards,Flashcard Maker - KardsAI,Productivity AI,Freemium,13,3.1538463,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.quizgecko,Quizgecko: Smart AI Flashcards,Productivity AI,Freemium,100,4.6831684,0.0,52,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.vocabulary.flashcards,Card ai: flashcard maker,Productivity AI,Freemium,11,4.5555553,0.0,6,,0,,0,0.0,50.0,50.0,,,50.0,True
+flashcards.study.tool,Cogni: Study with Flashcards,Productivity AI,Freemium,64,4.55,0.0,27,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.vedasapps.flashcards,Noji: Study with Flashcards,Productivity AI,Freemium,136,3.9788136,0.0,114,,0,,0,0.0,50.0,50.0,,,50.0,False
+ru.mobsolutions.memoword,Flashcard maker vocab notebook,Productivity AI,Freemium,61,4.275,0.0,32,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+app.zeely.android,Zeely: AI Marketing Platform,Marketing AI,Freemium,118,4.421488,0.0,77,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.dhanda.app,Dhanda AI Marketing By EZO,Marketing AI,Free,105,4.3636365,0.0,53,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.otis,Otis AI: Market Your Business,Marketing AI,Free,30,3.59375,0.0,8,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,True
+com.businessai,Business AI: Sales & Marketing,Marketing AI,Freemium,17,2.5,0.0,5,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.monetizeaiapp,MonetizeAI: Make Money with AI,Marketing AI,Freemium,68,4.490196,0.0,28,,0,,0,0.0,50.0,50.0,,,50.0,False
+rivera.scanprofit.app,Scan Profit - AI Sourcing Tool,Marketing AI,Freemium,3,4.2083335,0.0,2,,0,,0,0.0,50.0,50.0,,,50.0,True
+io.zimran.coursiv,Coursiv: AI Tools Mastery,Marketing AI,Freemium,142,4.617253,0.0,92,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.microsoft.bing,Microsoft Bing Search,Marketing AI,Freemium,130,4.559673,0.0,96,,0,0.0,3,0.0,50.0,50.0,,50.0,50.0,False
+ai.adcreative.m,AdCreative.ai: Generate Ads,Marketing AI,Freemium,13,3.6666667,0.0,3,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.facebook.katana,Facebook,Marketing AI,Freemium,115,4.5689373,0.0,83,,0,0.0,4,0.0008930434782608695,50.03,50.0,,50.0,50.04,False
+com.google.android.apps.giant,Google Analytics,Marketing AI,Free,122,4.042328,0.0,66,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.shopify.mobile,Shopify: Sell online/in person,Marketing AI,Free,136,4.191474,0.0,87,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+co.simplified.main,Simplified AI,Marketing AI,Freemium,60,3.597826,0.0,20,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.luhemusadev.postai,Post Ai - Generate Posts,Marketing AI,Free,7,4.46875,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+xyz.aspectapp.aspect,Aspect: AI-Only Social Media,Marketing AI,Freemium,137,4.02521,0.0,86,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.social_ai,Social AI social network - Mee,Marketing AI,Freemium,36,3.2459016,0.0,19,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.nexthreads.app,AI Social Media Post Copilot,Marketing AI,Freemium,2,3.9230769,,0,,0,,0,0.0,50.0,,,,50.0,True
+io.mysocial.creators,Mysocial: AI Creator Manager,Marketing AI,Freemium,83,4.158416,0.0,37,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.desygner.socialposts,Social Post Maker & Design,Marketing AI,Freemium,108,4.4950495,0.0,46,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+co.wavera.spark,Fomo - AI Social Network,Marketing AI,Freemium,105,4.3580246,0.0,53,0.0,2,,0,0.0,50.0,50.0,50.0,,50.0,False
+com.post.maker.for.social.media.photo.editor.postplus,Post Maker for Social Media,Marketing AI,Freemium,31,4.59,0.0,16,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.socialmedia.postmaker.facebookpost,Social Media Post Maker,Marketing AI,Free,93,4.353846,0.0,27,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.app.ai.blog,AI Blog Post Generator,Marketing AI,Freemium,15,4.756098,0.0,5,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.golazoservices.socialaiplanner,Social AI Planner,Marketing AI,Freemium,3,3.96875,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.socialmedia.socialmediapostmaker,Social Media Post Maker,Marketing AI,Freemium,117,4.29697,0.0,66,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.instagram.barcelona,Threads,Marketing AI,Freemium,119,4.136728,0.0,90,0.0,1,0.0,3,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.ogoul.werfieapp,Werfie: Social Media with AI,Marketing AI,Free,27,4.142857,0.0,8,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.voops.ai,Voops AI: Image Video Creator,Marketing AI,Freemium,104,4.39726,0.0,40,,0,,0,0.0,50.0,50.0,,,50.0,False
+comments.auto.ai.generator.comment,AI Smart Comment Generator,Marketing AI,Freemium,3,1.8,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.captiono.app,Captiono: AI Subtitles,Marketing AI,Freemium,98,4.366337,0.0,46,,0,,0,0.0,50.0,50.0,,,50.0,False
+ai.quso.app,AI Captions,Marketing AI,Freemium,68,4.4158416,0.0,28,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.vistring.blink.android,Blink Captions by Vozo AI,Marketing AI,Freemium,104,4.455414,0.0,70,0.0,2,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.pixsterstudio.captions,Captions AI: Videos Subtitles,Marketing AI,Freemium,105,4.355769,0.0,57,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+cn.bluepulse.caption,Zeemo:AI video maker & Caption,Marketing AI,Freemium,96,3.6138613,0.0,63,0.0,1,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
+org.capzy.studio,Capzy: AI Caption,Marketing AI,Freemium,9,4.607843,0.0,3,,0,,0,0.015422222222222223,50.58,50.0,,,50.77,True
+com.app.ai.caption,"AI Caption Generator, Writer",Marketing AI,Freemium,2,4.0,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.copybuilder.aitool,Copy Builder: AI Writing Tools,Marketing AI,Freemium,3,2.8,0.0,3,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.suno.android,Suno - AI Music & Songs,Marketing AI,Freemium,128,4.8410506,0.0,94,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.sagamill.copyai,AI Copy - Write Essay & Email,Marketing AI,Freemium,37,4.54,0.0,15,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.app.ai.desc.gen,AI Description Generator,Marketing AI,Freemium,7,4.7710843,0.0,2,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.aistudios.app,AI STUDIOS: AI Video Generator,Marketing AI,Freemium,9,3.4375,0.0,4,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.sonivamusic.ai,AI Song Maker: Soniva Music,Marketing AI,Freemium,131,4.7976675,0.0,96,0.0,2,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.ai.sound.donna,Donna AI Song & Music Maker,Marketing AI,Freemium,132,4.647425,0.0,101,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,False
+com.warpengine.viggle,Viggle AI: Meme Maker,Marketing AI,Freemium,97,4.604613,0.0,50,0.0,1,,0,0.0,50.0,50.0,50.0,,50.0,False
+ai.hailuo.video,Hailuo Al: Image&Video Maker,Marketing AI,Freemium,116,4.263158,0.0,71,0.0,1,,0,0.001981034482758621,50.05,50.0,50.0,,50.1,False
+art.a1.twa,a1.art: AI Photo & Video Maker,Marketing AI,Freemium,77,3.6373627,0.0,34,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.liba.voice,Voice Clone:AI Voice Generator,Marketing AI,Freemium,106,3.960396,0.0,69,0.0,1,0.0,3,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.openart.ai,OpenPixel: AI Art Generator,Marketing AI,Freemium,45,1.8,0.0,32,,0,,0,0.0,50.0,50.0,,,50.0,True
+youseo.organicgrowth.channelseotool,SEO Tools & Viral Video Studio,Marketing AI,Freemium,79,4.71,0.0,37,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.keywords.tools.piepre.tech,"Keyword Planner: TAG, SEO, ASO",Marketing AI,Freemium,125,3.9846153,0.0,52,,0,,0,0.0,50.0,50.0,,,50.0,False
+net.seobility.seocheck,SEO Checker,Marketing AI,Free,120,4.73,0.0,46,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.youtags.pro,YouTags Pro: SEO Tags Finder,Marketing AI,Freemium,59,4.1666665,0.0,12,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.youtools.seo,YouTools - SEO Tools,Marketing AI,Freemium,103,3.96,0.0,34,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.penstill.seochecker,SEO Checker: Fast & Easy Tool,Marketing AI,Free,9,3.0,0.0,2,,0,,0,0.015422222222222223,50.58,50.0,,,50.77,True
+com.tagtool.tubebuddypro,Tags Buddy Pro tags finder SEO,Marketing AI,Freemium,31,4.869565,0.0,5,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.famous.ai,Famous AI - Idea to app,Marketing AI,Free,22,2.7777777,0.0,14,,0,0.0,2,0.0,50.0,50.0,,50.0,50.0,True
+come.myindianow.protradingsignal,AI Pro Trading Signal,Marketing AI,Freemium,181,3.1578948,0.0,76,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+com.idizon.seolocalrank,TrueRanker - SEO Rank Tracker,Marketing AI,Free,21,3.7142856,0.0,8,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.business.plan.maker.template,AI Business Plan Generator,Marketing AI,Freemium,90,4.80198,0.0,25,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.ai.bizplanr,Bizplanr- AI Business Planner,Marketing AI,Free,19,4.142857,0.0,10,,0,,0,0.0,50.0,50.0,,,50.0,True
+co.themobilefirst.alloapp,Allo: AI Second Business Phone,Marketing AI,Freemium,9,3.860465,0.0,5,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.linkedin.android,LinkedIn: Jobs & Business News,Marketing AI,Freemium,144,4.1154666,0.0,101,,0,0.0,1,0.0015479166666666666,50.05,50.0,,50.0,50.08,False
+com.you.browser,You.com - Enterprise grade AI,Marketing AI,Freemium,115,4.742248,0.0,75,,0,0.0,1,0.0,50.0,50.0,,50.0,50.0,False
+ai.jeeves.android,Jeeves.AI -Assistant & Chatbot,Marketing AI,Freemium,25,4.6444445,0.0,11,,0,,0,0.0,50.0,50.0,,,50.0,True
+ai.writer.keyboard.chat.gpt.writing.text.grammar.check.assistant,Keyboard AI Assistant: Writely,Marketing AI,Freemium,76,4.48,0.0,34,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.fullstack.aidescriptiongenerator,AI Description Generator,Marketing AI,Freemium,90,4.909091,0.0,34,,0,,0,0.0,50.0,50.0,,,50.0,False
+com.gizastudios.productplus,Product Plus: AI Product Photo,Marketing AI,Freemium,1,5.0,,0,,0,,0,0.0,50.0,,,,50.0,True
+ai.product.photoeditor,Product photo editor AI mockup,Marketing AI,Freemium,13,3.1176472,0.0,4,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.eastfrisia.aiproposalgenerator,AI Proposal Generator & Writer,Marketing AI,Freemium,7,4.4545455,0.0,3,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.app.ai.proposal,"AI Proposal Writer, Generator",Marketing AI,Freemium,48,4.58,0.0,15,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.predis.freeapp,AI Hashtag Generator by Predis,Marketing AI,Free,6,4.65625,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.xjprhinox.pixora,AI Product Video & Ad - Pixury,Marketing AI,Freemium,37,4.4714284,0.0,16,,0,,0,-0.006391891891891891,49.76,50.0,,,49.68,False
+com.app.ai.script,"AI Script Writer, Generator",Marketing AI,Freemium,50,4.42,0.0,19,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.narraud,AI Podcast Generator - Narraud,Marketing AI,Freemium,2,4.111111,,0,,0,,0,0.0,50.0,,,,50.0,True
+co.appnation.ailogogenerator,AI Logo Generator - Mark,Marketing AI,Freemium,46,4.542484,0.0,19,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.vc.aibusinessproposal.generator,AI Business Proposal Generator,Marketing AI,Freemium,1,4.2,0.0,1,,0,,0,0.0,50.0,50.0,,,50.0,True
+com.zhiliaoapp.musically,"TikTok - Videos, Shop & LIVE",Marketing AI,Freemium,134,4.0202503,0.0,95,0.0,1,0.0,2,0.0,50.0,50.0,50.0,50.0,50.0,False
+com.parrot.ai_voice_generator_changer,Parrot: Voice Generator AI App,Marketing AI,Freemium,122,4.2225804,0.0,85,0.0,2,0.0,1,0.0,50.0,50.0,50.0,50.0,50.0,False
