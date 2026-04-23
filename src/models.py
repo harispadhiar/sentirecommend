@@ -210,6 +210,7 @@ def build_content_model(metadata_df):
         min_df=1,
         stop_words="english",
         strip_accents="unicode",
+        lowercase=True
     )
 
     content_mat = content_tfidf.fit_transform(metadata_df["content_text"])

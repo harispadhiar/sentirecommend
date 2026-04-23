@@ -61,8 +61,17 @@ def analyse_aspects(text):
         words = sentence.split()
 
         for aspect, keywords in ASPECT_KEYWORDS.items():
-            # Only process this sentence if it mentions the aspect
-            if not any(kw in sentence for kw in keywords):
+            # Loosen matching: allow partial keyword matches (substring matching)
+            # e.g., "confusing" matches "confus", "user-friendly" matches "friendly"
+            matched = any(kw in sentence for kw in keywords)
+            if not matched:
+                # Also try matching keyword prefixes (first 4+ characters)
+                # to catch variations like "confus" for "confusing"
+                matched = any(
+                    len(kw) > 4 and kw[:4] in sentence
+                    for kw in keywords
+                )
+            if not matched:
                 continue
 
             pos_count = neg_count = 0

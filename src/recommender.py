@@ -26,6 +26,8 @@ from src.config import (
     IN_SCOPE_KEYWORDS,
 )
 from src.utils import is_query_in_scope
+from src.query_expansion import expand_query
+
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -221,6 +223,7 @@ def hybrid_recommend(
     # When query is typed but no user history: let content dominate
     if query_text and query_text.strip() and not user_ratings:
         a, b, g = QUERY_ONLY_WEIGHTS
+        query_text = expand_query(query_text)
 
     # ── Compute individual scores ─────────────────────────────────────────────
     # CF scores
@@ -246,7 +249,7 @@ def hybrid_recommend(
         is_gem = hidden_gem_lookup.get(aid, 0)
 
         # Apply gem boost only when content score shows some relevance
-        gem_bonus = gem_boost * is_gem * (1 if cont_s > 0.05 else 0)
+        gem_bonus = gem_boost * is_gem * cont_s
 
         hybrid = a * cf_s + b * nlp_s + g * cont_s + gem_bonus
         hybrid = min(1.0, hybrid)
